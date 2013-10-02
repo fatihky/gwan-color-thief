@@ -1,0 +1,130 @@
+/* line 135, ../sass/app.sass */
+.imageSection {
+  margin-bottom: 80px;
+  background: #FFFFFF;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -o-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px;
+}
+/* line 139, ../sass/app.sass */
+.imageSection .imageWrap {
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -o-border-top-left-radius: 10px;
+  -ms-border-top-left-radius: 10px;
+  -khtml-border-top-left-radius: 10px;
+  border-top-left-radius: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -o-border-bottom-left-radius: 10px;
+  -ms-border-bottom-left-radius: 10px;
+  -khtml-border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  width: 400px;
+  height: 300px;
+  float: left;
+  margin-right: 20px;
+  background: transparent;
+}
+/* line 146, ../sass/app.sass */
+.imageSection .imageWrap .targetImage {
+  -moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;
+  -o-border-top-left-radius: 10px;
+  -ms-border-top-left-radius: 10px;
+  -khtml-border-top-left-radius: 10px;
+  border-top-left-radius: 10px;
+  -moz-border-radius-bottomleft: 10px;
+  -webkit-border-bottom-left-radius: 10px;
+  -o-border-bottom-left-radius: 10px;
+  -ms-border-bottom-left-radius: 10px;
+  -khtml-border-bottom-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+/* line 148, ../sass/app.sass */
+.imageSection .colors {
+  margin-top: 20px;
+  width: 400px;
+  float: left;
+}
+/* line 152, ../sass/app.sass */
+.imageSection .colors .function {
+  clear: left;
+  margin-bottom: 10px;
+}
+/* line 156, ../sass/app.sass */
+.imageSection .colors .function .swatches .swatch {
+  width: 40px;
+  height: 20px;
+  margin-right: 2px;
+  background: #dddddd;
+  float: left;
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+/* line 163, ../sass/app.sass */
+.imageSection .colors .function .swatches .swatch:hover {
+  -moz-transition: none;
+  -webkit-transition: none;
+  -o-transition: none;
+  transition: none;
+  -moz-transform: scale(1.2, 1.2);
+  -webkit-transform: scale(1.2, 1.2);
+  -o-transform: scale(1.2, 1.2);
+  -ms-transform: scale(1.2, 1.2);
+  transform: scale(1.2, 1.2);
+  -moz-box-shadow: 0 1px 10px black;
+  -webkit-box-shadow: 0 1px 10px black;
+  -o-box-shadow: 0 1px 10px black;
+  box-shadow: 0 1px 10px black;
+}
+/* line 167, ../sass/app.sass */
+.imageSection .colors .function .swatches .swatch:first-child {
+  -moz-border-radius-topleft: 4px;
+  -webkit-border-top-left-radius: 4px;
+  -o-border-top-left-radius: 4px;
+  -ms-border-top-left-radius: 4px;
+  -khtml-border-top-left-radius: 4px;
+  border-top-left-radius: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  -o-border-bottom-left-radius: 4px;
+  -ms-border-bottom-left-radius: 4px;
+  -khtml-border-bottom-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+/* line 169, ../sass/app.sass */
+.imageSection .colors .function .swatches .swatch:last-child {
+  -moz-border-radius-topright: 4px;
+  -webkit-border-top-right-radius: 4px;
+  -o-border-top-right-radius: 4px;
+  -ms-border-top-right-radius: 4px;
+  -khtml-border-top-right-radius: 4px;
+  border-top-right-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  -o-border-bottom-right-radius: 4px;
+  -ms-border-bottom-right-radius: 4px;
+  -khtml-border-bottom-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+/* Hardcoding the offset for the FB icon example */
+/* line 175, ../sass/app.sass */
+.fbIcon .imageWrap .targetImage {
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  -o-border-radius: 0;
+  -ms-border-radius: 0;
+  -khtml-border-radius: 0;
+  border-radius: 0;
+  position: relative;
+  top: 142px;
+  left: 192px;
+}
+
