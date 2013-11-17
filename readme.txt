@@ -1,3 +1,4 @@
+![alt text](https://github.com/fatihky/gwan-color-thief/raw/master/03-11-2013 16-21-19.png "screenshot")
 
 run ./gwan and open localhost:8080 in your browser.
 
